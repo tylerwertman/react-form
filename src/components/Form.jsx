@@ -4,7 +4,7 @@ const Form = () => {
 
 const [firstName, setFirstName] = useState("");
 const [lastName, setLastName] = useState("");
-const [age, setAge] = useState("");
+// const [age, setAge] = useState("");
 const [email, setEmail] = useState("");
 const [password, setPassword] = useState("");
 const [password2, setPassword2] = useState("");
